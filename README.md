@@ -19,13 +19,13 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 
 ## 1. [Proejct 1 - AwsomeProject (New React Native App)](https://github.com/ShauryaChawan/React-Native-Practice-Project/tree/main/P1_AwsomeProject)
 
-<center>
+<div style="display: flex; justify-content: center; align-items: center;" >
 <img src="./images/p1.1.png" alt="project 1 app" height="500px">
-</center>
+</div>
 
 ## 2. [Project 2 - Styling]()
 
-<div style="display:flex; justify-content:center; align-items:center" >
+<div style="display: flex; justify-content: center; align-items: center;" >
    <img src="./images/p2.1.png" alt="project 1 app" height="500px">
    <img src="./images/p2.2.png" alt="project 1 app" height="500px">
    <img src="./images/p2.3.png" alt="project 1 app" height="500px">
