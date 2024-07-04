@@ -1,6 +1,10 @@
-# React Native CLI + Expo
+# React Native CLI
 
-# Mini Proejcts using CLI
+## Youtube Playlist
+I have learned React native from the following YouTube Resources: <br/>
+Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
+
+## Mini Proejcts using CLI
 1. [Proejct 1 - AwsomeProject (New React Native App)](https://github.com/ShauryaChawan/React-Native-Practice-Project/tree/main/P1_AwsomeProject)
 2. [Project 2 - Styling]()
 3. [Project 3 - PasswordGenerator]()
@@ -15,9 +19,19 @@
 
 ## 1. [Proejct 1 - AwsomeProject (New React Native App)](https://github.com/ShauryaChawan/React-Native-Practice-Project/tree/main/P1_AwsomeProject)
 
+<center>
 <img src="./images/p1.1.png" alt="project 1 app" height="500px">
+</center>
 
 ## 2. [Project 2 - Styling]()
+
+<center>
+<img src="./images/p2.1.png" alt="project 1 app" height="500px">
+<img src="./images/p2.2.png" alt="project 1 app" height="500px">
+<img src="./images/p2.3.png" alt="project 1 app" height="500px">
+<img src="./images/p2.4.png" alt="project 1 app" height="500px">
+</center>
+
 ## 3. [Project 3 - PasswordGenerator]()
 ## 4. [Project 4 - Background Changer]()
 ## 5. [Project 5 - Roll the Dice]()
@@ -38,4 +52,18 @@
 2. Creating new React Native CLI app on Windows
 3. Errors for setting up React Native on Windows
 4. Files and Folder structure of a React Native app
-5.   
+5. SafeAreaView
+6. View
+7. Text
+8. StyleSheet
+9. useColorScheme
+10. Scrollview
+    1.  ScrollView vs FlatList
+11. FlatList
+    1.  ScrollView vs FlatList
+12. Image
+13. Button
+    1.  Button vs TouchableOpacity
+14. TouchableOpacity
+    1.  Button vs TouchableOpacity
+15. Pressable
