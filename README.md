@@ -15,7 +15,7 @@
 
 ## 1. [Proejct 1 - AwsomeProject (New React Native App)](https://github.com/ShauryaChawan/React-Native-Practice-Project/tree/main/P1_AwsomeProject)
 
-![new app](images\p1.1.png)
+![new app](./images/p1.1.png)
 
 ## 2. [Project 2 - Styling]()
 ## 3. [Project 3 - PasswordGenerator]()
