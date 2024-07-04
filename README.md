@@ -48,7 +48,7 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 ## 11. [Project 11 - AppWrite]()
 
 
-## Blogs:
+## Learned:
 
 1. [React Native] - 
    1. Intro to React Native
@@ -72,3 +72,5 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 14. TouchableOpacity
     1.  Button vs TouchableOpacity
 15. Pressable
+16. TextInput
+17. React native Forms - Formik and Yup, & Bouncy Checkbox

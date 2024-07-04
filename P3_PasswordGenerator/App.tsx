@@ -76,6 +76,8 @@ export default function App() {
             validationSchema={ PasswordSchema }
             onSubmit={ (values) => {
               console.log(values);
+              // both the following works and are same code but different ways of writting
+              // generatePasswordString(Number(values.passwordLength));
               generatePasswordString(+values.passwordLength);
             } }
           >
