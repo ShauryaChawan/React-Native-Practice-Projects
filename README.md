@@ -35,6 +35,7 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 <div style="display: flex; justify-content: center; align-items: center;" >
    <img src="./images/p3.1.png" alt="project 1 app" height="500px">
    <img src="./images/p3.2.png" alt="project 1 app" height="500px">
+   <img src="./images/p3.3.png" alt="project 1 app" height="500px">
 </div>
 
 ## 4. [Project 4 - Background Changer]()
