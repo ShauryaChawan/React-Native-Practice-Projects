@@ -25,12 +25,12 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 
 ## 2. [Project 2 - Styling]()
 
-<center>
-<img src="./images/p2.1.png" alt="project 1 app" height="500px">
-<img src="./images/p2.2.png" alt="project 1 app" height="500px">
-<img src="./images/p2.3.png" alt="project 1 app" height="500px">
-<img src="./images/p2.4.png" alt="project 1 app" height="500px">
-</center>
+<div style="display:flex; justify-content:center; align-items:center" >
+<img style="display:inline-block" src="./images/p2.1.png" alt="project 1 app" height="500px">
+<img style="display:inline-block" src="./images/p2.2.png" alt="project 1 app" height="500px">
+<img style="display:inline-block" src="./images/p2.3.png" alt="project 1 app" height="500px">
+<img style="display:inline-block" src="./images/p2.4.png" alt="project 1 app" height="500px">
+</div>
 
 ## 3. [Project 3 - PasswordGenerator]()
 ## 4. [Project 4 - Background Changer]()
