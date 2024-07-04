@@ -6,7 +6,7 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 
 ## Mini Proejcts using CLI
 1. [Proejct 1 - AwsomeProject (New React Native App)](https://github.com/ShauryaChawan/React-Native-Practice-Project/tree/main/P1_AwsomeProject)
-2. [Project 2 - Styling]()
+2. [Project 2 - Styling](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P2_Styling)
 3. [Project 3 - PasswordGenerator]()
 4. [Project 4 - Background Changer]()
 5. [Project 5 - Roll the Dice]()
@@ -21,7 +21,7 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 
 <img src="./images/p1.1.png" alt="project 1 app" height="500px">
 
-## 2. [Project 2 - Styling]()
+## 2. [Project 2 - Styling](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P2_Styling)
 
 <div style="display: flex; justify-content: center; align-items: center;" >
    <img src="./images/p2.1.png" alt="project 1 app" height="500px">
