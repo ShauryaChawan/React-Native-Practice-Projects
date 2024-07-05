@@ -90,3 +90,4 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 17. React native Forms - Formik and Yup, & Bouncy Checkbox
 18. StatusBar
 19. ⚠️ Vibration & Haptic Feedback
+20. Image and ImageSourcePropType

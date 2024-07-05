@@ -1,6 +1,6 @@
 
-import React, {useState} from 'react';
-import type {PropsWithChildren} from 'react';
+import React, { useState } from 'react';
+import type { PropsWithChildren } from 'react';
 import {
   StyleSheet,
   Text,
@@ -27,13 +27,11 @@ const options = {
   ignoreAndroidSystemSettings: false
 };
 
-const Dice = ({imageUrl}: DiceProps):JSX.Element => {
-  return (
-    <View>
-      <Image style={styles.diceImage} source={imageUrl} />
-    </View>
-  )
-}
+const Dice = ({ imageUrl }: DiceProps): JSX.Element => (
+  <View>
+    <Image style={ styles.diceImage } source={ imageUrl } />
+  </View>
+)
 
 function App(): JSX.Element {
   const [diceImage, setDiceImage] = useState<ImageSourcePropType>(DiceOne)
@@ -60,7 +58,6 @@ function App(): JSX.Element {
       case 6:
         setDiceImage(DiceSix)
         break;
-    
       default:
         setDiceImage(DiceOne)
         break;
@@ -70,15 +67,15 @@ function App(): JSX.Element {
   }
 
   return (
-    <View style={styles.container}>
-      <Dice imageUrl={diceImage} />
+    <View style={ styles.container }>
+      <Dice imageUrl={ diceImage } />
       <Pressable
-      onPress={rollDiceOnTap}
+        onPress={ rollDiceOnTap }
       >
         <Text
-        style={styles.rollDiceBtnText}
+          style={ styles.rollDiceBtnText }
         >
-        Roll the dice
+          Roll the dice
         </Text>
       </Pressable>
     </View>
