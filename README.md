@@ -39,6 +39,12 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 </div>
 
 ## 4. [Project 4 - Background Changer]()
+
+<div style="display: flex; justify-content: center; align-items: center;" >
+   <img src="./images/p4.1.png" alt="project 1 app" height="500px">
+   <img src="./images/p4.2.png" alt="project 1 app" height="500px">
+   <img src="./images/p4.3.png" alt="project 1 app" height="500px">
+</div>
 ## 5. [Project 5 - Roll the Dice]()
 ## 6. [Project 6 - Currency Converter]()
 ## 7. [Project 7 - TicTacToe]()
@@ -74,3 +80,4 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 15. Pressable
 16. TextInput
 17. React native Forms - Formik and Yup, & Bouncy Checkbox
+18. StatusBar
