@@ -48,8 +48,8 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 
 ## 5. [Project 5 - Roll the Dice](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P5_DiceRoll)
 
+<img src="./images/p5.1.png" alt="project 1 app" height="500px">
 <div style="display: flex; justify-content: center; align-items: center;" >
-   <img src="./images/p5.1.png" alt="project 1 app" height="500px">
    <img src="./images/p5.2.png" alt="project 1 app" height="500px">
    <img src="./images/p5.3.png" alt="project 1 app" height="500px">
 </div>
