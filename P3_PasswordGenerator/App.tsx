@@ -30,6 +30,9 @@ export default function App() {
   const [symbols, setSymbols] = useState<boolean>(false);
 
   const generatePasswordString = (passwordLength: number): void => {
+
+    console.log("Generating password");
+
     let characterList = '';
 
     const upperCaseChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
@@ -54,10 +57,14 @@ export default function App() {
       const characterIndex = Math.round(Math.random() * characters.length);
       result += characters.charAt(characterIndex);
     }
+    console.log("result: " + result);
     return result;
   };
 
   const resetPasswordState = () => {
+
+    console.log("Reset everything");
+
     setPassword('');
     setIsPassGenerated(false);
     setLowerCase(true);
