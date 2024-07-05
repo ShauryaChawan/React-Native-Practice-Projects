@@ -8,8 +8,8 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 1. [Proejct 1 - AwsomeProject (New React Native App)](https://github.com/ShauryaChawan/React-Native-Practice-Project/tree/main/P1_AwsomeProject)
 2. [Project 2 - Styling](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P2_Styling)
 3. [Project 3 - PasswordGenerator](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P3_PasswordGenerator)
-4. [Project 4 - Background Changer]()
-5. [Project 5 - Roll the Dice]()
+4. [Project 4 - Background Changer](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P4_BackgroundChanger)
+5. [Project 5 - Roll the Dice](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P5_DiceRoll)
 6. [Project 6 - Currency Converter]()
 7. [Project 7 - TicTacToe]()
 8. [Project 8 - SpotifyMusic]()
@@ -38,7 +38,7 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
    <img src="./images/p3.3.png" alt="project 1 app" height="500px">
 </div>
 
-## 4. [Project 4 - Background Changer]()
+## 4. [Project 4 - Background Changer](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P4_BackgroundChanger)
 
 <div style="display: flex; justify-content: center; align-items: center;" >
    <img src="./images/p4.1.png" alt="project 1 app" height="500px">
@@ -46,7 +46,14 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
    <img src="./images/p4.3.png" alt="project 1 app" height="500px">
 </div>
 
-## 5. [Project 5 - Roll the Dice]()
+## 5. [Project 5 - Roll the Dice](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P5_DiceRoll)
+
+<div style="display: flex; justify-content: center; align-items: center;" >
+   <img src="./images/p5.1.png" alt="project 1 app" height="500px">
+   <img src="./images/p5.2.png" alt="project 1 app" height="500px">
+   <img src="./images/p5.3.png" alt="project 1 app" height="500px">
+</div>
+
 ## 6. [Project 6 - Currency Converter]()
 ## 7. [Project 7 - TicTacToe]()
 ## 8. [Project 8 - SpotifyMusic]()
@@ -57,7 +64,7 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 
 ## Learned:
 
-1. [React Native] - 
+1. React Native - 
    1. Intro to React Native
    2. React vs React Native
    3. React Native CLI vs Expo
@@ -82,3 +89,4 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 16. TextInput
 17. React native Forms - Formik and Yup, & Bouncy Checkbox
 18. StatusBar
+19. ⚠️ Vibration & Haptic Feedback
