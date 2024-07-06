@@ -54,7 +54,15 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
    <img src="./images/p5.3.png" alt="project 1 app" height="500px">
 </div>
 
-## 6. [Project 6 - Currency Converter]()
+## 6. [Project 6 - Currency Converter](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P6_CurrencyConverter)
+
+<div style="display: flex; justify-content: center; align-items: center;" >
+   <img src="./images/p6.1.png" alt="project 1 app" height="500px">
+   <img src="./images/p6.2.png" alt="project 1 app" height="500px">
+   <img src="./images/p6.3.png" alt="project 1 app" height="500px">
+   <img src="./images/p6.4.png" alt="project 1 app" height="500px">
+</div>
+
 ## 7. [Project 7 - TicTacToe]()
 ## 8. [Project 8 - SpotifyMusic]()
 ## 9. [Project 9 - NavigationExplore]()
