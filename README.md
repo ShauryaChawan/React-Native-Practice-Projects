@@ -10,9 +10,9 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 3. [Project 3 - PasswordGenerator](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P3_PasswordGenerator)
 4. [Project 4 - Background Changer](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P4_BackgroundChanger)
 5. [Project 5 - Roll the Dice](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P5_DiceRoll)
-6. [Project 6 - Currency Converter]()
-7. [Project 7 - TicTacToe]()
-8. [Project 8 - SpotifyMusic]()
+6. [Project 6 - Currency Converter](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P6_CurrencyConverter)
+7. [Project 7 - TicTacToe](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P6_CurrencyConverter)
+8. [Project 8 - SpotifyMusic](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P7_TicTacToe)
 9. [Project 9 - NavigationExplore]()
 10. [Project 10 - Shopping]()
 11. [Project 11 - AppWrite]()
@@ -63,7 +63,14 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
    <img src="./images/p6.4.png" alt="project 1 app" height="500px">
 </div>
 
-## 7. [Project 7 - TicTacToe]()
+## 7. [Project 7 - TicTacToe](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/main/P7_TicTacToe)
+
+<div style="display: flex; justify-content: center; align-items: center;" >
+   <img src="./images/p7.1.png" alt="project 1 app" height="500px">
+   <img src="./images/p7.2.png" alt="project 1 app" height="500px">
+</div>
+
+
 ## 8. [Project 8 - SpotifyMusic]()
 ## 9. [Project 9 - NavigationExplore]()
 ## 10. [Project 10 - Shopping]()
@@ -82,20 +89,24 @@ Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/p
 5. SafeAreaView
 6. View
 7. Text
-8. StyleSheet
-9. useColorScheme
-10. Scrollview
+8. TextInput
+9. StyleSheet
+10. useColorScheme
+11. Scrollview
     1.  ScrollView vs FlatList
-11. FlatList
+12. FlatList
     1.  ScrollView vs FlatList
-12. Image
-13. Button
-    1.  Button vs TouchableOpacity
-14. TouchableOpacity
-    1.  Button vs TouchableOpacity
-15. Pressable
-16. TextInput
-17. React native Forms - Formik and Yup, & Bouncy Checkbox
-18. StatusBar
-19. ⚠️ Vibration & Haptic Feedback
-20. Image and ImageSourcePropType
+13. Image
+14. Button
+    1.  Button vs TouchableOpacity vs Preesable
+15. TouchableOpacity
+    1.  Button vs TouchableOpacity  vs Preesable
+16. Pressable
+    1.  Button vs TouchableOpacity  vs Preesable
+17. TextInput
+18. React native Forms - Formik and Yup, & Bouncy Checkbox
+19. StatusBar
+20. ⚠️ Vibration & Haptic Feedback
+21. Image and ImageSourcePropType
+22. SnackBar
+23. React Native Vector Icons
