@@ -2,7 +2,7 @@
 
 ## Branches
 `main`: [React Native CLI](https://github.com/ShauryaChawan/React-Native-Practice-Projects) <br/>
-`expo`: [React Native Expo](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/expo) - New Commit - 9/7/24 - Working on proect 2 - drawer component <br/>
+`expo`: [React Native Expo](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/expo) - New Commit - 10/7/24 - Completed project 2 <br/>
 
 ## Youtube Playlist
 I have learned React native from the following YouTube Resources: <br/>
