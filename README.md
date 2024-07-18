@@ -4,6 +4,9 @@
 `main`: [React Native CLI](https://github.com/ShauryaChawan/React-Native-Practice-Projects) <br/>
 `expo`: [React Native Expo](https://github.com/ShauryaChawan/React-Native-Practice-Projects/tree/expo) - New Commit - 10/7/24 - Completed project 2 <br/>
 
+## Commands:
+1. Create new CLI Project:
+
 ## Youtube Playlist
 I have learned React native from the following YouTube Resources: <br/>
 Hitesh Choudhary - [React Native Mastery with 10 apps](https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c)
